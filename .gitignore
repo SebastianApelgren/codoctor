@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+.DS_Store
+
+#audio files
+audio_files/*
+!audio_files/.gitkeep
