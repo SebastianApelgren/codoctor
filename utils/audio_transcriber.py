@@ -2,7 +2,7 @@ import os
 import whisper
 
 class AudioTranscriber:
-    def __init__(self, model_name="base"):
+    def __init__(self, model_name="tiny"):
         """
         Initialize the AudioTranscriber with a specified Whisper model.
 

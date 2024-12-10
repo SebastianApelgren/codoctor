@@ -1,3 +1,4 @@
 import whisper
+import torch
 
-print("Whisper is successfully imported!")
+print("Whisper and torch is successfully imported!")
